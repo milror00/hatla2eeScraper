@@ -1,0 +1,5 @@
+lxml == 4.5.0
+beautifulsoup4 == 4.9.0
+poetry == 1.0.5
+flake8 == 3.7.9
+requests == 2.23.0
